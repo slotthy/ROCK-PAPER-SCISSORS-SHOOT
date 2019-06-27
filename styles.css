@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: #104c1a;
+}
+
+h5 {
+    text-align: center;
+    color: #fff;
+}
+
+#paper {
+    margin: 0 638px 0 638px;
+    color: white;
+    background-color: black;
+}
+
+#rock {
+    margin-left: 550px;
+    color: #b5b5b5;
+    background-color: #565656;
+}
+
+#scissors {
+    margin-left: 750px;
+    background-color: #a50000;
+}
+
+#container {
+    text-align: center;
+    color: #fff;
+}
+
+html {
+    background-color: #060606;
+}
